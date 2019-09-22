@@ -18,6 +18,7 @@
     5. 百度：真好用  
    感觉自己看git官网就是在做阅读理解。
    现在看什么都像在看git：![现在看什么都像在看git](https://h5.qzone.qq.com/mqzone/profile?starttime=156906940441&hostuin=3538536443#slideView=true)  
+   我感觉其实readme太花哨好像没什么用，markdown语法上网搜就搜得到，只有你在操作git的过程中明白了什么git的概念，能解决了什么问题才有用，百度不一定能解决每一个问题。
 ## 成果展示：  
  &emsp;以上这段文字为我的markdown展示。    
 ## 进入程序部后想学的内容：  
